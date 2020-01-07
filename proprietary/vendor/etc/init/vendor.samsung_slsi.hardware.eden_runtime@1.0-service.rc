@@ -1,0 +1,4 @@
+service eden_runtime /vendor/bin/hw/vendor.samsung_slsi.hardware.eden_runtime@1.0-service
+    class hal
+    user system
+    group system sdcard_rw
